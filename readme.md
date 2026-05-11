@@ -31,7 +31,7 @@ Example:
 
 ```java
 public class HelloWorld {
-    public static void main(String[] args) {
+    public static void main(StringOperation[] args) {
         System.out.println("Hello, World!");
     }
 }
@@ -114,3 +114,14 @@ Hello, World!
 5. OS executes → Output
 
 ---
+
+# References
+
+1. Java Programming MOOC  
+   https://java-programming.mooc.fi/
+
+2. Dev.java Learn  
+   https://dev.java/learn/
+
+3. How Java Works Behind the Scenes: A Deep Dive Into Code Execution  
+   https://medium.com/@leninm9861/how-java-works-behind-the-scenes-a-deep-dive-into-code-execution-7a6842e38fe3
