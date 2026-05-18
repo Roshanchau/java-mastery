@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Calcualtor {
-    public  void main(StringOperation[] args){
+    public  void main(String[] args){
         int a;
         int b;
         int c;

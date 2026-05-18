@@ -1,6 +1,8 @@
-public class ArrayList {
+import java.util.ArrayList;
+
+public class Learn_ArrayList<P> {
     public void main(StringOperation[] args){
-        java.util.ArrayList<StringOperation> teachers= new java.util.ArrayList<>();
+        ArrayList<String> teachers= new java.util.ArrayList<>();
 
         teachers.add("groot");
         teachers.add("stark");

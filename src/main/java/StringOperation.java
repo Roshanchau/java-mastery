@@ -7,11 +7,11 @@ public class StringOperation {
         int sum=0;
         while(true){
             String input = reader.nextLine();
-            if(input.equals("")){
+            if(input.isEmpty()){
                 break;
             }
             String[] parts = input.split(",");
-            sum= sum+ Integer.valueOf(parts[1]);
+            sum= sum+ Integer.parseInt(parts[1]);
         }
 
         System.out.println("sum of the age is: "+ sum);
