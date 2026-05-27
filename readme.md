@@ -125,3 +125,6 @@ Hello, World!
 
 3. How Java Works Behind the Scenes: A Deep Dive Into Code Execution  
    https://medium.com/@leninm9861/how-java-works-behind-the-scenes-a-deep-dive-into-code-execution-7a6842e38fe3
+
+4. JAVA OOP
+   https://www.geeksforgeeks.org/java/object-oriented-programming-oops-concept-in-java
